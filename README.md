@@ -1,8 +1,8 @@
 # Lab 3: REST API, query parameters, validation, debugging
 
-**Name:** Parasa Sandeep Samuel
-**Registration Number:** 252U1R076
-**Section:** CSE FSD 2B
+**Name:** G Srisanth Reddy
+**Registration Number:** 252U1R6092
+**Section:** CSE (AIML) 2B
 **Course:** Backend Development Fundamentals
 
 ## Live Link
